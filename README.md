@@ -1,2 +1,2 @@
 # syncloud
-all in one platform for all virtual popular virtual drives
+all in one platform for all popular virtual drives
